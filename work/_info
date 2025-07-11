@@ -1,0 +1,227 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/system32
+vALU
+!s110 1751305894
+!i10b 1
+!s100 FlEljmXF?@3m4LNbg4ZAf0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IncAY5R4]B>4X^nMie]?Ui2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/ProjectIEEE
+w1751302121
+8D:/ProjectIEEE/ALU.v
+FD:/ProjectIEEE/ALU.v
+!i122 36
+L0 1 26
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1751305894.000000
+!s107 D:/ProjectIEEE/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ProjectIEEE/ALU.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@l@u
+vALU_tb
+!s110 1751301621
+!i10b 1
+!s100 j^8DE^^8_kAV[b_WWYRI00
+R0
+IV1YL2dMia9VB3F9MAhZ==3
+R1
+R2
+w1751245976
+8D:/ProjectIEEE/ALU_tb.v
+FD:/ProjectIEEE/ALU_tb.v
+!i122 28
+L0 1 68
+R3
+r1
+!s85 0
+31
+!s108 1751301621.000000
+!s107 D:/ProjectIEEE/ALU_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ProjectIEEE/ALU_tb.v|
+!i113 1
+R4
+R5
+n@a@l@u_tb
+vCU
+Z6 !s110 1751305898
+!i10b 1
+!s100 9z7CJ]RP:WaHb?HSb;nNZ1
+R0
+IOM><e;:UKoRilmZKfnWzD3
+R1
+R2
+w1751294646
+8D:/ProjectIEEE/CU.v
+FD:/ProjectIEEE/CU.v
+!i122 37
+L0 1 105
+R3
+r1
+!s85 0
+31
+Z7 !s108 1751305898.000000
+!s107 D:/ProjectIEEE/CU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ProjectIEEE/CU.v|
+!i113 1
+R4
+R5
+n@c@u
+vData_mem
+R6
+!i10b 1
+!s100 9Yl3BEGeBGlK^TVg[BNeQ2
+R0
+IXag5n@ZgkHi7ZbE4SY2bF3
+R1
+R2
+w1751303318
+8D:/ProjectIEEE/Data_mem.v
+FD:/ProjectIEEE/Data_mem.v
+!i122 38
+L0 1 17
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/ProjectIEEE/Data_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ProjectIEEE/Data_mem.v|
+!i113 1
+R4
+R5
+n@data_mem
+vImem
+R6
+!i10b 1
+!s100 6_;DRT2PTz]lzL^A:Nk0[1
+R0
+ILUOURP>f^CL7>dFNI7<:H2
+R1
+R2
+w1751303356
+8D:/ProjectIEEE/Imem.v
+FD:/ProjectIEEE/Imem.v
+!i122 39
+Z8 L0 1 15
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/ProjectIEEE/Imem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ProjectIEEE/Imem.v|
+!i113 1
+R4
+R5
+n@imem
+vPC
+R6
+!i10b 1
+!s100 h9_RU5oONQlR<i7>aa]3Z2
+R0
+IoeLV40l8HBgK]5:850jeb0
+R1
+R2
+w1751302140
+8D:/ProjectIEEE/PC.v
+FD:/ProjectIEEE/PC.v
+!i122 40
+L0 1 19
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/ProjectIEEE/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ProjectIEEE/PC.v|
+!i113 1
+R4
+R5
+n@p@c
+vRegister_File
+R6
+!i10b 1
+!s100 ?7=TUQj4ficI2094>jE9?1
+R0
+IB^7_c5GGA8][8fA7C4nN=2
+R1
+R2
+w1751295819
+8D:/ProjectIEEE/Register_File.v
+FD:/ProjectIEEE/Register_File.v
+!i122 41
+L0 1 25
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/ProjectIEEE/Register_File.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ProjectIEEE/Register_File.v|
+!i113 1
+R4
+R5
+n@register_@file
+vRV
+R6
+!i10b 1
+!s100 RQ9z9D2Z4T`L^3]g_=<390
+R0
+Im>z8DYR[PEAffoFQO]H5`2
+R1
+R2
+w1751302964
+8D:/ProjectIEEE/RV.v
+FD:/ProjectIEEE/RV.v
+!i122 42
+L0 1 50
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/ProjectIEEE/RV.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ProjectIEEE/RV.v|
+!i113 1
+R4
+R5
+n@r@v
+vSign_Extend
+!s110 1751305899
+!i10b 1
+!s100 nM7D9NK2CD:[85nGj_MA]1
+R0
+I_5RVa_U;BgoM<Zk5jhS?;1
+R1
+R2
+w1751301223
+8D:/ProjectIEEE/Sign_Extend.v
+FD:/ProjectIEEE/Sign_Extend.v
+!i122 43
+R8
+R3
+r1
+!s85 0
+31
+!s108 1751305899.000000
+!s107 D:/ProjectIEEE/Sign_Extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ProjectIEEE/Sign_Extend.v|
+!i113 1
+R4
+R5
+n@sign_@extend

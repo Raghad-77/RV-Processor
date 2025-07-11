@@ -1,0 +1,694 @@
+# Compile of ALU.v was successful.
+# Compile of ALU_tb.v was successful.
+# Compile of CU.v was successful.
+# Compile of Data_mem.v was successful.
+# Compile of Imem.v was successful.
+# Compile of PC.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of RV.v was successful.
+# Compile of Sign_Extend.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.RV
+# vsim -gui work.RV 
+# Start time: 19:23:21 on Jun 30,2025
+# Loading work.RV
+# Loading work.ALU
+# Loading work.PC
+# Loading work.Imem
+# Loading work.Register_File
+# Loading work.Data_mem
+# Loading work.CU
+# Loading work.Sign_Extend
+add wave -position insertpoint  \
+sim:/RV/clk \
+sim:/RV/arst
+add wave -position insertpoint  \
+{sim:/RV/top_Data_mem/Dmem[0]} \
+{sim:/RV/top_Data_mem/Dmem[1]} \
+{sim:/RV/top_Data_mem/Dmem[2]} \
+{sim:/RV/top_Data_mem/Dmem[3]} \
+{sim:/RV/top_Data_mem/Dmem[4]} \
+{sim:/RV/top_Data_mem/Dmem[5]} \
+{sim:/RV/top_Data_mem/Dmem[6]} \
+{sim:/RV/top_Data_mem/Dmem[7]} \
+{sim:/RV/top_Data_mem/Dmem[8]} \
+{sim:/RV/top_Data_mem/Dmem[9]}
+force -freeze sim:/RV/arst 0 0
+force -freeze sim:/RV/clk 1 0, 0 {50 ps} -r 100
+run
+force -freeze sim:/RV/arst 1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 19:27:01 on Jun 30,2025, Elapsed time: 0:03:40
+# Errors: 0, Warnings: 5
+# Compile of ALU.v was successful.
+# Compile of ALU_tb.v was successful.
+# Compile of CU.v was successful.
+# Compile of Data_mem.v was successful.
+# Compile of Imem.v was successful.
+# Compile of PC.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of RV.v was successful.
+# Compile of Sign_Extend.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.RV
+# vsim -gui work.RV 
+# Start time: 19:27:19 on Jun 30,2025
+# Loading work.RV
+# Loading work.ALU
+# Loading work.PC
+# Loading work.Imem
+# Loading work.Register_File
+# Loading work.Data_mem
+# Loading work.CU
+# Loading work.Sign_Extend
+add wave -position insertpoint  \
+sim:/RV/clk \
+sim:/RV/arst
+add wave -position insertpoint  \
+{sim:/RV/top_Data_mem/Dmem[0]} \
+{sim:/RV/top_Data_mem/Dmem[1]} \
+{sim:/RV/top_Data_mem/Dmem[2]} \
+{sim:/RV/top_Data_mem/Dmem[3]} \
+{sim:/RV/top_Data_mem/Dmem[4]} \
+{sim:/RV/top_Data_mem/Dmem[5]} \
+{sim:/RV/top_Data_mem/Dmem[6]} \
+{sim:/RV/top_Data_mem/Dmem[7]} \
+{sim:/RV/top_Data_mem/Dmem[8]} \
+{sim:/RV/top_Data_mem/Dmem[9]} \
+{sim:/RV/top_Data_mem/Dmem[10]}
+force -freeze sim:/RV/arst 0 0
+force -freeze sim:/RV/clk 1 0, 0 {50 ps} -r 100
+run
+force -freeze sim:/RV/arst 1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 19:34:18 on Jun 30,2025, Elapsed time: 0:06:59
+# Errors: 0, Warnings: 2
+# Compile of ALU.v was successful.
+# Compile of ALU_tb.v was successful.
+# Compile of CU.v was successful.
+# Compile of Data_mem.v was successful.
+# Compile of Imem.v was successful.
+# Compile of PC.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of RV.v was successful.
+# Compile of Sign_Extend.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.RV
+# vsim -gui work.RV 
+# Start time: 19:34:33 on Jun 30,2025
+# Loading work.RV
+# Loading work.ALU
+# Loading work.PC
+# Loading work.Imem
+# Loading work.Register_File
+# Loading work.Data_mem
+# Loading work.CU
+# Loading work.Sign_Extend
+add wave -position insertpoint  \
+sim:/RV/clk \
+sim:/RV/arst
+add wave -position insertpoint  \
+{sim:/RV/top_Data_mem/Dmem[0]} \
+{sim:/RV/top_Data_mem/Dmem[1]} \
+{sim:/RV/top_Data_mem/Dmem[2]} \
+{sim:/RV/top_Data_mem/Dmem[3]} \
+{sim:/RV/top_Data_mem/Dmem[4]} \
+{sim:/RV/top_Data_mem/Dmem[5]} \
+{sim:/RV/top_Data_mem/Dmem[6]} \
+{sim:/RV/top_Data_mem/Dmem[7]} \
+{sim:/RV/top_Data_mem/Dmem[8]} \
+{sim:/RV/top_Data_mem/Dmem[9]}
+force -freeze sim:/RV/arst 0 0
+force -freeze sim:/RV/clk 1 0, 0 {50 ps} -r 100
+run
+force -freeze sim:/RV/arst 1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 19:40:19 on Jun 30,2025, Elapsed time: 0:05:46
+# Errors: 0, Warnings: 2
+# Compile of ALU.v was successful.
+# Compile of ALU_tb.v was successful.
+# Compile of CU.v was successful.
+# Compile of Data_mem.v was successful.
+# Compile of Imem.v was successful.
+# Compile of PC.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of RV.v was successful.
+# Compile of Sign_Extend.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.RV
+# vsim -gui work.RV 
+# Start time: 19:40:34 on Jun 30,2025
+# Loading work.RV
+# Loading work.ALU
+# Loading work.PC
+# Loading work.Imem
+# Loading work.Register_File
+# Loading work.Data_mem
+# Loading work.CU
+# Loading work.Sign_Extend
+add wave -position insertpoint  \
+sim:/RV/clk \
+sim:/RV/arst
+add wave -position insertpoint  \
+{sim:/RV/top_Data_mem/Dmem[0]} \
+{sim:/RV/top_Data_mem/Dmem[1]} \
+{sim:/RV/top_Data_mem/Dmem[2]} \
+{sim:/RV/top_Data_mem/Dmem[3]} \
+{sim:/RV/top_Data_mem/Dmem[4]} \
+{sim:/RV/top_Data_mem/Dmem[5]} \
+{sim:/RV/top_Data_mem/Dmem[6]} \
+{sim:/RV/top_Data_mem/Dmem[7]} \
+{sim:/RV/top_Data_mem/Dmem[8]} \
+{sim:/RV/top_Data_mem/Dmem[9]}
+force -freeze sim:/RV/arst 0 0
+force -freeze sim:/RV/clk 1 0, 0 {50 ps} -r 100
+run
+force -freeze sim:/RV/arst 1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint  \
+{sim:/RV/top_Register_File/registers[0]} \
+{sim:/RV/top_Register_File/registers[1]} \
+{sim:/RV/top_Register_File/registers[2]} \
+{sim:/RV/top_Register_File/registers[3]} \
+{sim:/RV/top_Register_File/registers[4]} \
+{sim:/RV/top_Register_File/registers[5]} \
+{sim:/RV/top_Register_File/registers[6]} \
+{sim:/RV/top_Register_File/registers[7]}
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+force -freeze sim:/RV/arst 0 0
+force -freeze sim:/RV/clk 1 0, 0 {50 ps} -r 100
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+force -freeze sim:/RV/arst 1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 20:51:26 on Jun 30,2025, Elapsed time: 1:10:52
+# Errors: 0, Warnings: 1
+# Compile of ALU.v was successful.
+# Compile of CU.v was successful.
+# Compile of Data_mem.v was successful.
+# Compile of Imem.v was successful.
+# Compile of PC.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of RV.v was successful.
+# Compile of Sign_Extend.v was successful.
+# 8 compiles, 1 failed with no errors.

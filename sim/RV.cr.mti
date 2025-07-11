@@ -1,0 +1,64 @@
+D:/ProjectIEEE/ALU.v {1 {vlog -work work -stats=none D:/ProjectIEEE/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/ProjectIEEE/PC.v {1 {vlog -work work -stats=none D:/ProjectIEEE/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/ProjectIEEE/ALU_tb.v {1 {vlog -work work -stats=none D:/ProjectIEEE/ALU_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} D:/ProjectIEEE/RV.v {1 {vlog -work work -stats=none D:/ProjectIEEE/RV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RV
+
+Top level modules:
+	RV
+
+} {} {}} D:/ProjectIEEE/Imem.v {1 {vlog -work work -stats=none D:/ProjectIEEE/Imem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Imem
+
+Top level modules:
+	Imem
+
+} {} {}} D:/ProjectIEEE/Data_mem.v {1 {vlog -work work -stats=none D:/ProjectIEEE/Data_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_mem
+
+Top level modules:
+	Data_mem
+
+} {} {}} D:/ProjectIEEE/Sign_Extend.v {1 {vlog -work work -stats=none D:/ProjectIEEE/Sign_Extend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sign_Extend
+
+Top level modules:
+	Sign_Extend
+
+} {} {}} D:/ProjectIEEE/Register_File.v {1 {vlog -work work -stats=none D:/ProjectIEEE/Register_File.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} D:/ProjectIEEE/CU.v {1 {vlog -work work -stats=none D:/ProjectIEEE/CU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}}
