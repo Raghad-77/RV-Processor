@@ -27,7 +27,7 @@ The processor was tested using ModelSim and Vivado. A sample Fibonacci program (
 
 1. Clone or download the repository.
 2. Open in VS Code with Verilog/SystemVerilog support.
-3. Compile and simulate using ModelSim or Vivado simulator.
+3. Compile and simulate using ModelSim, questasim or Vivado simulator.
 4. Check waveform outputs to verify functionality.
 
 ## Author
